@@ -1,2 +1,8 @@
-# TALK-HUB
-TalkHub - Messaging App TalkHub is a sleek, user-friendly messaging platform designed to connect people in real-time. With end-to-end encryption, seamless multimedia sharing, and a smooth user experience, TalkHub aims to bring fast, secure, and efficient communication to everyone. 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
